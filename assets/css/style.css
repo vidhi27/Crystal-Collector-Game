@@ -1,0 +1,56 @@
+body {
+	background-image: url("../images/background.jpg");
+	margin: 0px;
+	padding: 0px;
+}
+
+.jumbotron {
+    background-color: #330033;
+}
+.jumbotron h1 {
+    color:   #fae6ff	;
+    font-weight: bolder;
+    font-size: 70px;
+	text-shadow: 2px 2px  #7a0099;
+	font-family: 'Neuton', serif;
+}
+
+p {
+	font-family: 'PT Sans', sans-serif;
+}
+
+.target-number {
+	font-size: 35px;
+	background-color: #fae6ff;
+	border-style: solid;
+	border-color: #ffccff;
+	border-width: 4px;
+	text-align: center;
+	color:  #330033;
+}
+
+.win-lose-counter {
+	background-color: #fae6ff;
+	border-style: solid;
+	border-color: #ffccff;
+	border-width: 4px;
+	text-align: center;
+	font-weight: bold;
+	color: #330033;
+}
+
+.crystal-images {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.total-score {
+	color:  #330033	;
+	background-color: #ffccff;
+}
+
+.score-number {
+	color:  #330033	;
+	background-color: #ffb3ff;
+	font-size: 30px;
+}
