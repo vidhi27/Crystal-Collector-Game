@@ -3,4 +3,5 @@
 <br>
 <p>The game is built using HTML, CSS, BootStrap, JavaScript and JQuery.</p>
 <br>
+<p>You can play the game by clicking on this link: https://vidhi27.github.io/unit-4-game/ </p>
 
