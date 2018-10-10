@@ -3,5 +3,6 @@
 <br>
 <p>The game is built using HTML, CSS, BootStrap, JavaScript and JQuery.</p>
 <br>
+
 ![Crystal Screenshot](https://github.com/vidhi27/unit-4-game/blob/master/assets/images/crystal.png)
 
